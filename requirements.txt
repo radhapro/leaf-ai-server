@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 pillow
-# Agar tum YOLO add karoge to uske liye aur dependencies yahan aayengi
+numpy # Naya package
+torch # Naya package (ultralytics ispe depend karta hai)
+ultralytics # Naya package (YOLO library)
