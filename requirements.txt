@@ -1,4 +1,4 @@
 fastapi
 uvicorn
 pillow
-python-multipart
+# Agar tum YOLO add karoge to uske liye aur dependencies yahan aayengi
