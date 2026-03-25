@@ -1,6 +1,4 @@
 fastapi
 uvicorn
 pillow
-numpy # Naya package
-torch # Naya package (ultralytics ispe depend karta hai)
-ultralytics # Naya package (YOLO library)
+ultralytics
