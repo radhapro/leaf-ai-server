@@ -2,4 +2,6 @@ fastapi
 uvicorn
 python-multipart
 Pillow
-h5py  # Ye line add karni hai (agar already nahi hai)
+h5py
+numpy
+tensorflow
