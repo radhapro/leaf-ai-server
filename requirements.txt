@@ -4,4 +4,4 @@ python-multipart
 Pillow
 h5py
 numpy
-tensorflow
+tensorflow-cpu==2.13.0
